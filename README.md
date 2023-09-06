@@ -7,16 +7,17 @@ TeramachiTech - Montagem de PC Gamers
 Hideki Ferreira S Teramachi
 
 ## Java MySQL - Sistema para gestão de serviços
-Desenvolva passo a passo do zero um sistema para gestão de ordem de serviços (Sistema OS) de uma assistência técnica de computadores e periféricos.
+Desenvolva passo a passo do zero um sistema para gestão de ordem de serviços (Sistema OS) de uma assistência técnica de Montagem de PC Gamers.
 
 ## Instalação e Demonstração do Projeto
-Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local (Windows) para fins de desenvolvimento e testes.
+Essas instruções irá fornecer uma cópia do projeto instalado e funcionando na sua máquina local (Windows) para fins de desenvolvimento e testes.
 
 ## Pré requisitos:
 É necessário ter instalado no computador:
 
 • Java JDK 8;
 • XAMPP.
+
 ## Instalação:
 • Inicie o XAMPP;
 
@@ -26,21 +27,19 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 
 • Clica na opção de Admin dentro do XAMPP;
 
-• Após clicar na opção de Admin, você será redirecionado para esse site e ai sim poderá criar seu Banco de Dados;
+• Após clicar na opção de Admin, você será redirecionado para essa página e com isso poderá criar o seu Banco de Dados;
 
 ![image](https://github.com/hidekibtw/Teramachi-Tech/assets/104094361/8bf596fa-ec48-4e4b-9570-7de41d342206)
 
-• Dentro do site clicar na opção sinalizada na imagem, em "SQL";
+• Dentro do site clique na opção mencionada na imagem, em "SQL";
 
 ![image](https://github.com/hidekibtw/Teramachi-Tech/assets/104094361/e2fc5bf6-7250-4f23-a095-441d769e2ffc)
 
-• Depois de clicar na opção "SQL", só colar os comandos que estão no GitHub em "Banco-de-Dados > dbsistema" e colar no local;
-
-• Após colar é só utilizar a junção de teclas CTRL + ENTER, e assim seu Banco de Dados será criado;
+• Após clicar na opção "SQL", cole seu script do banco de dados e execute com CTRL + ENTER para a criação do mesmo;
 
 ![image](https://github.com/hidekibtw/Teramachi-Tech/assets/104094361/18351de7-b095-40cf-b02b-584b59b66b83)
 
-• Para último passo é só iniciar o projeto e na opção de Login, igual na imagem abaixo, seguir os seguintes procedimentos:
+• Para último passo é só iniciar o projeto e ir na opção de Login, e seguir os seguintes procedimentos:
 
 • Na tela de login faça a autenticação com o usuário "admin" usando a senha "admin";
 
